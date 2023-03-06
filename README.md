@@ -166,7 +166,7 @@ Lihat di bagian `catching_up` kalo status masih true berarti belum sync... tungg
    10000000sao \
    --from=wallet \
    --gas=auto \
-   --gas-adjusment=1.5 \
+   --gas-adjustment=1.5 \
    --gas-prices=0.0025sao
    ```
 
