@@ -164,7 +164,7 @@ Lihat di bagian `catching_up` kalo status masih true berarti belum sync... tungg
 
 4. Delegate
    ```console
-   saod delegate $(saod keys show wallet --bech val -a) \
+   saod tx staking delegate $(saod keys show wallet --bech val -a) \
    10000000sao \
    --from=wallet \
    --gas=auto \
