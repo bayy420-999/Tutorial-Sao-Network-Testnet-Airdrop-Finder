@@ -12,8 +12,6 @@
 
 [Dokumen resmi](https://docs.sao.network/)
 
-[Validator auction](https://stake-perseverance.chainflip.io/auctions)
-
 [Server Discord Sao Network](https://discord.gg/7n5d9nTSJW)
 
 [Faucet](https://faucet.testnet.sao.network/)
